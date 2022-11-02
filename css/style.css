@@ -1,3 +1,4 @@
+
 .site_Name{
     color: rgb(33, 133, 46);
     display: flex;
@@ -48,5 +49,14 @@
 .navbar-expand-lg {
     background-color: #2996c2;
 }
+
+.form{
+    padding: 20px;
+    justify-content: center;
+    justify-items: center;
+    background: radial-gradient(green, aqua, blue, violet);
+}
+
+
 
 
