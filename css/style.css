@@ -47,7 +47,7 @@
 }
 
 .navbar-expand-lg {
-    background-color: #2996c2;
+    background-color: #B1CF5F;
 }
 
 .form{
@@ -55,6 +55,14 @@
     justify-content: center;
     justify-items: center;
     background: radial-gradient(green, aqua, blue, violet);
+}
+
+.row{
+    display: grid;
+    justify-content: space-evenly;
+    padding-top: 2em;
+    align-content: center;
+    
 }
 
 
