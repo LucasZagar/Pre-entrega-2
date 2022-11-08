@@ -1,3 +1,81 @@
+.site_Name{
+    color: rgb(33, 133, 46);
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+.container-nav{
+    display: flex;
+    background-color: rgb(34, 189, 55);
+    justify-content: flex-end;
+    margin: auto;
 
 
-/*# sourceMappingURL=style.css.map */
+
+}
+
+.container-nav li{
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-right: 4px;
+    margin: auto;
+}
+
+.search-Input{
+    display: inline-flex;
+    justify-content: center;
+    margin: auto;
+    justify-items: center;
+
+}
+
+.video-Envios{
+    display: flex;
+    justify-content: center;
+
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+
+}
+
+.navbar-expand-lg {
+    background-color: #B1CF5F;
+}
+
+.form{
+    padding: 20px;
+    justify-content: center;
+    justify-items: center;
+    background: radial-gradient(green, aqua, blue, violet);
+}
+
+.row{
+    display: grid;
+    justify-content: space-evenly;
+    padding-top: 2em;
+    align-content: center;
+
+}
+
+.btn-primary{
+    background: linear-gradient(to top,#1B912D,#B1CF5F);
+}
+
+.footer{
+    background: linear-gradient(to top,#1B912D,#B1CF5F);
+}
+body{
+    background: linear-gradient(to top,#1B912D,#B1CF5F);
+}
+
+.dropdown-menu{
+    background: linear-gradient(to top,#1B912D,#B1CF5F);
+
+}
